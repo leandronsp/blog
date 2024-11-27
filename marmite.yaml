@@ -1,12 +1,12 @@
-name: Your Blog
-tagline: Things you talk about
-url: https://YOURUSER.github.io/blog
+name: Blog do leandronsp
+tagline: Software Engineering and stuff
+url: https://leandronsp.github.io/blog
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@YOURUSER"]
-  - ["Github", "https://github.com/rochacbruno/marmite"]
+  - ["Follow me", "https://bsky.app/profile/leandronsp.com"]
+  - ["Github", "https://github.com/leandronsp"]
 
 
 # More options available to customize the website
